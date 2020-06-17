@@ -1,6 +1,7 @@
 body {
     background-color: #fff;
     font-family: 'Ubuntu', sans-serif;
+    background-image: linear-gradient(to bottom left,rgb(139, 175, 118),rgb(0, 255, 255));
 }
 
 .no-display {
@@ -17,7 +18,7 @@ body {
 .title {
     font-size: 30px;
     margin-top: 1em;
-    margin-bottom: 1em;
+    margin-bottom: 2.5em;
     color: #262626;
 }
 
